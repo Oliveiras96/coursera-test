@@ -1,0 +1,84 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #ededfc;
+	font-style: 'Ubuntu', sans-serif;
+}
+
+/***************** Nav bar  ******************/
+#header-nav {
+	background-color: #212126;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1 {
+	font-size: 1.5em;
+	font-family: /*'Pacifico'*/ 'Permanent Marker', cursive;
+	color: #a5a9d6;
+	font-weight: bold;
+	text-shadow: 1px 1px #e4e4ed;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, n.navbar-brand a:focus {
+	text-decoration: none;
+}
+
+/************************ Navbar Buttom ***********************/
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#nav-list a {
+	text-align: center;
+	color: #e4e4ed;
+}
+
+#nav-list a:hover {
+	color: #fff;
+	box-shadow: inset 0 0 .5em  #8e8efa;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #8e8efa;
+}
+
+
+/******************** End of Navbar Buttom ********************/
+
+
+/******************* End of Nav bar *****************/
+
+/******************* Main content  *****************/
+	
+#main-content h1 {
+	color: #6c6ccc;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+#menu-section.container {
+	width: 100%;
+}
+
+.meal-description {
+	text-align: center;
+	background-color: #212126;
+	margin: 5%;
+	padding: 5%;
+}
+
+.meal-description span {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.meal-description p {
+	text-align: left;
+	margin-top: 15px;
+}
+
