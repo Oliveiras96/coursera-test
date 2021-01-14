@@ -7,3 +7,5 @@ Ao final do curso, desenvolvemos um site (solução do módulo 5) para um restau
  - CSS (Bootstrap);
  - JavaScript;
  - JQuery & AJAX;
+ 
+ [Confira o resultado final](https://oliveiras96.github.io/coursera-test/David_chus_china_bistro_md5/after/index.html)
